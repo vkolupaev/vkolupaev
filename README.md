@@ -1,6 +1,6 @@
+## 🧔 Who am I
 👋 Hi, I am [@ViacheslavKolupaev](https://t.me/vkolupaev/).
 
-## 🧔 Who am I
 I am an **MLOps Engineer**. I specialize in tasks at the intersection of ML Engineering, DevOps/MLOps, and SRE. I focus on engineering rather than ML itself. I don't train models. I ensure that ML projects reach the production environment and operate stably within it.
 
 With a T-shaped skill set, I am capable of solving complex and intricate engineering tasks at the crossroads of different disciplines.
