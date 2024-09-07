@@ -19,5 +19,3 @@ Please feel free to write to me 👇
 
 - [LinkedIn](https://www.linkedin.com/in/vkolupaev/)
 - [Telegram](https://t.me/vkolupaev/)
-
-https://vkolupaev.com/?utm_source=github&utm_medium=link&utm_campaign=bio
