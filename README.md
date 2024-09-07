@@ -11,7 +11,7 @@ I can design a system and make it work with what is available, minimizing additi
 
 I am constantly learning, purposefully and according to plan.
 
-Read more about me on my personal website: ([https://vkolupaev.com/](https://vkolupaev.com/?utm_source=github&utm_medium=link&utm_campaign=profile)). 
+Read more about me on my personal website: [https://vkolupaev.com/](https://vkolupaev.com/?utm_source=github&utm_medium=link&utm_campaign=profile). 
 
 Please feel free to write to me 👇
 
